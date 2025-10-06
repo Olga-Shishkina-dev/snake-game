@@ -8,7 +8,10 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)  
 [![Pygame Version](https://img.shields.io/badge/Pygame-2.0+-green.svg)](https://www.pygame.org/)  
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![GitHub Stars](C:\Users\1\AppData\Local\Programs\Python\Python313\projects\game_snake\assets\2.png)](https://github.com/yourusername/snake-game)  
+![Выберите уровень](assets/1.png)
+![Игровой процесс](assets/2.png)
+![Игра окончена](assets/3.png)
+
 
 ---
 
@@ -91,8 +94,7 @@ snake-game/
 
 ## 📄 Лицензия
 
-Этот проект распространяется под лицензией MIT. Подробности в файле [LICENSE](LICENSE).
-
+Этот проект распространяется под лицензией MIT. Подробности смотрите в [файле LICENSE.docx](https://github.com/Olga-Shishkina-dev/snake-game/blob/master/LICENSE.docx).
 ---
 
 ## 🙌 Благодарности
